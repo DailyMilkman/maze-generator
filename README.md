@@ -1,7 +1,7 @@
 # maze-generator
 A visualization of a maze generation algorithm in JavaScript
 
-The program can either be run in the browser, or you can simply run the .exe file in the folder
+The program can either be run in the browser, or you can simply run the .exe file in the folder (windows only at the moment)
 
 This is was created based off of the wikipedia page on maze generation:
 https://en.wikipedia.org/wiki/Maze_generation_algorithm
